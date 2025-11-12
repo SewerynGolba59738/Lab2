@@ -1,3 +1,5 @@
+
+
 punkty = int(input("Podaj liczbę punktów:"))
 
 if punkty > 80:
